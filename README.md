@@ -22,6 +22,12 @@ No, there is a web interface that allows you to toggle the Xbox and disc drive. 
 
 No, the device is only active on your local network and does not make calls to the internet. Firmware updates can be downloaded from our GitHub and need to be manually loaded from the web interface. 
 
+#### Is there a Discord channel?
+
+Yes, join us on https://discord.gg/FFCH2MpZ
+
+
+
 
 ## Usage
 
