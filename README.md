@@ -8,11 +8,11 @@
 
 #### What is the Xbox OG Remote CTRL?
 
-It is a device that allows you to turn on/off the Xbox and open/close the disc drive using a web browser or a domotica system. The Xbox OG Remote CTRL is connected to the controls of the front panel, enabling you to turn it on/off via WiFi. No soldering or modifications to the case is needed. The device is press-fitted in the Xbox case.
+It is a device that allows you to turn on/off the original Xbox and open/close the disc drive using a web browser or a domotica system. The Xbox OG Remote CTRL is connected to the controls of the front panel, enabling you to turn it on/off via WiFi. No soldering or modifications to the case is needed. The device is press-fitted in the Xbox case.
 
 #### For who is this product?
 
-For lazy people like me that most of the time have a controller on the couch and don't want to stand up to turn on the Xbox but rather prefer to shout at Alexa/Google/Siri to turn on the Xbox
+For lazy people like me that most of the time have a controller on the couch and don't want to stand up to turn on the Xbox but rather prefer to shout at Alexa/Google/Siri to turn on the original Xbox
 
 #### Is a domotica system needed?
 
