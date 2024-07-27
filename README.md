@@ -1,8 +1,12 @@
 
 # Xbox OG Remote CTRL
 
+## Contents
 
-
+ - [Kit Contents](#Kit Contents)
+ - [FAQ](#FAQ)
+ - [Usage](#Usage)
+ - 
 
 ## FAQ
 
