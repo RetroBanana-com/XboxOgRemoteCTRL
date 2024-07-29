@@ -1,5 +1,7 @@
 ## Firmware installation
 
+WARNING: Make sure the Xbox is in good range of your wifi network for the update to install
+
 1. Download latest released firmware
 2. Open a web browser and go to http://xboxogremotectrl.local and click on update firmware
 3. Browse to the downloaded firmware.bin and click install
